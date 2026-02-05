@@ -23,6 +23,11 @@ Prazer, meu nome é Matheus. Sou programador Java há 4 meses e já desenvolvi a
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring" alt="Spring" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" alt="VScode" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=idea" alt="Intellij" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
 </p>
