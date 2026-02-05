@@ -6,7 +6,6 @@
 <p>
   <img src="https://img.shields.io/github/followers/MatheusCristophi?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/MatheusCristophi?label=Total%20Stars&style=social" />
-  <img src="https://komarev.com/ghpvc/?username=MatheusCristophi&color=blueviolet&style=flat-square" alt="visitor count" />
 </p>
 
 Prazer, meu nome é Matheus. Sou programador Java há 4 meses e já desenvolvi alguns projetos próprios, os quais estão disponíveis no meu GitHub. Atualmente, curso Ciência da Computação. Possuo conhecimentos em Java, JavaScript, Banco de Dados e Spring Boot, além de conhecimento em HTML e CSS.
