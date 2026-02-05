@@ -13,7 +13,7 @@ Prazer, meu nome é Matheus. Sou programador Java há 4 meses e já desenvolvi a
 
 
 <p>
-  <a href="https://linkedin.com/https://www.linkedin.com/in/matheuscristophi" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-https://www.linkedin.com/in/matheus--cristophi--4417693a0/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/https://www.linkedin.com/in/matheuscristophi" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-https://www.linkedin.com/in/matheus--cristophi/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:matheuscr909@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-matheuscr909gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
