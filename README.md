@@ -8,8 +8,7 @@
   <img src="https://img.shields.io/github/stars/MatheusCristophi?label=Total%20Stars&style=social" />
 </p>
 
-Prazer, meu nome é Matheus. Sou programador Java há 4 meses e já desenvolvi alguns projetos próprios, os quais estão disponíveis no meu GitHub. Atualmente, curso Ciência da Computação. Possuo conhecimentos em Java, JavaScript, Banco de Dados e Spring Boot, além de conhecimento em HTML e CSS.
-
+Prazer, meu nome é Matheus. Sou um Desenvolvedor Web. Atualmente, curso Ciência da Computação. Possuo conhecimentos em Java, Html/Css, JavaScript, PostgreSql, Docker, Spring Boot e APIs.
 
 
 <p>
