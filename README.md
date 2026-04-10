@@ -23,6 +23,7 @@ Prazer, meu nome é Matheus. Sou um Desenvolvedor Web. Atualmente, curso Ciênci
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSql" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring" alt="Spring" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" alt="VScode" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=idea" alt="Intellij" /></a>
