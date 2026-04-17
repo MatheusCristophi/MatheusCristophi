@@ -8,9 +8,11 @@
   <img src="https://img.shields.io/github/stars/MatheusCristophi?label=Total%20Stars&style=social" />
 </p>
 
-Prazer, meu nome é Matheus. Sou um Desenvolvedor Web. Atualmente, curso Ciência da Computação. Possuo conhecimentos em Java, Html/Css, JavaScript, PostgreSql, Docker, Spring Boot e APIs.
+Prazer, Sou estudade de Ciência da Computação na UniFagoc. Sou um Desenvolvedor BackEnd. Possuo experiência prática em Desenvolvimento Web e criação de APIs RESTfull e integração com Banco de dados relacional usando
+Java, SpringBoot, PostgreSQL e Docker.
+<br>
 
-
+<br>
 <p>
   <a href="https://www.linkedin.com/in/matheuscristophi/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-https://www.linkedin.com/in/matheus--cristophi/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:matheuscr909@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-matheuscr909gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
