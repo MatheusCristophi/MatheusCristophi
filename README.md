@@ -21,10 +21,13 @@ Sou um desenvolvedor focado em criar soluções eficientes e escaláveis. Atualm
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusCristophi&theme=dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatheusCristophi&theme=dark" />
-</p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusCristophi&theme=dark" />
-
----
+<div align="center">
+    <p>
+    <a href="https://github.com/MatheusCristophi">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusCristophi&theme=dark&border=white&background=0D1117" alt="Saif's GitHub streak"/>
+    </a>
+  </p>
+<a href="https://github.com/MatheusCristophi">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusCristophi&theme=dark" alt="Al Siam's GitHub Contribution"/>
+</a>
+</div>
