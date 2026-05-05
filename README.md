@@ -1,42 +1,30 @@
-# Matheus Cristophi 👋
-### Desenvolvedor BackEnd | Java/SpringBoot | PostgreSQL | Docker
+# Olá, eu sou o Matheus! 👋
 
-***
+Sou um desenvolvedor focado em criar soluções eficientes e escaláveis. Atualmente, curso Ciência da Computação e dedico meus estudos ao ecossistema Java, construindo aplicações robustas desde o banco de dados até a interface.
 
-<p>
-  <img src="https://img.shields.io/github/followers/MatheusCristophi?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/MatheusCristophi?label=Total%20Stars&style=social" />
-</p>
+### 🛠️ No que estou trabalhando:
+- 🚀 Desenvolvendo o **SystemPayout**: Um sistema completo de gestão de pagamentos para academias, utilizando **Spring Boot** e **Angular**.
+- 📂 Evoluindo o **filesB7**: Uma ferramenta para transferência de arquivos em rede local via **Supabase**.
 
-Prazer, Sou estudade de Ciência da Computação na UniFagoc. Sou um Desenvolvedor BackEnd. Possuo experiência prática em Desenvolvimento Web e criação de APIs RESTfull e integração com Banco de dados relacional usando
-Java, SpringBoot, PostgreSQL e Docker.
-<br>
+### 💻 Stack Tecnológica:
+- **Backend:** Java (Spring Boot, Spring Data JPA, Spring Security)
+- **Frontend:** Angular, JavaScript (Vanilla JS), TypeScript
+- **Banco de Dados:** PostgreSQL, Supabase
+- **Infraestrutura:** Docker, Docker Compose
 
-<br>
-<p>
-  <a href="https://www.linkedin.com/in/matheuscristophi/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-https://www.linkedin.com/in/matheus--cristophi/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:matheuscr909@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-matheuscr909gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+---
+## 🛠️ Tech Stack
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,angular,mysql,postgres,supabase,docker,git,figma,vscode,idea,postman" />
+</div>
 
-### 🛠️ Languages and Tools
+---
+
+## 📊 GitHub Stats
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSql" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring" alt="Spring" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" alt="VScode" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=idea" alt="Intellij" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusCristophi&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatheusCristophi&theme=dark" />
 </p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusCristophi&theme=dark" />
 
-### 📊 GitHub Activity
-<p>
-</p>
-
-<p><img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusCristophi&theme=merko" alt="activity graph" /></p>
-
+---
