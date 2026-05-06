@@ -15,7 +15,7 @@ Sou um desenvolvedor focado em criar soluções eficientes e escaláveis. Atualm
 ---
 ## 🛠️ Tech Stack
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,angular,mysql,postgres,supabase,docker,git,figma,vscode,idea,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,react,mysql,postgres,supabase,docker,git,figma,vscode,idea,postman" />
 </div>
 
 ---
