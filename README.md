@@ -8,7 +8,7 @@ Sou um desenvolvedor focado em criar soluções eficientes e escaláveis. Atualm
 
 ### 💻 Stack Tecnológica:
 - **Backend:** Java (Spring Boot, Spring Data JPA, Spring Security)
-- **Frontend:** Angular, JavaScript (Vanilla JS), TypeScript
+- **Frontend:** React, JavaScript (Vanilla JS), TypeScript
 - **Banco de Dados:** PostgreSQL, Supabase
 - **Infraestrutura:** Docker, Docker Compose
 
