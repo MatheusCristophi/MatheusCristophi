@@ -2,10 +2,6 @@
 
 Sou um desenvolvedor focado em criar soluções eficientes e escaláveis. Atualmente, curso Ciência da Computação e dedico meus estudos ao ecossistema Java, construindo aplicações robustas desde o banco de dados até a interface.
 
-### 🛠️ No que estou trabalhando:
-- 🚀 Desenvolvendo o **SystemPayout**: Um sistema completo de gestão de pagamentos para academias, utilizando **Spring Boot** e **Angular**.
-- 📂 Evoluindo o **filesB7**: Uma ferramenta para transferência de arquivos em rede local via **Supabase**.
-
 ### 💻 Stack Tecnológica:
 - **Backend:** Java (Spring Boot, Spring Data JPA, Spring Security)
 - **Frontend:** React, JavaScript (Vanilla JS), TypeScript
