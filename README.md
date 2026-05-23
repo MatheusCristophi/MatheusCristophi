@@ -3,15 +3,14 @@
 Sou um desenvolvedor focado em criar soluções eficientes e escaláveis. Atualmente, curso Ciência da Computação e dedico meus estudos ao ecossistema Java, construindo aplicações robustas desde o banco de dados até a interface.
 
 ### 💻 Stack Tecnológica:
-- **Backend:** Java (Spring Boot, Spring Data JPA, Spring Security)
-- **Frontend:** React, JavaScript (Vanilla JS), TypeScript
-- **Banco de Dados:** PostgreSQL, Supabase
+- **Backend:** Java (Spring Boot, Spring Data JPA, Spring Security, Jwt, Spring Ai)
+- **Banco de Dados:** PostgreSQL, MySql, Supabase
 - **Infraestrutura:** Docker, Docker Compose
 
 ---
 ## 🛠️ Tech Stack
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,react,mysql,postgres,supabase,docker,git,figma,vscode,idea,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,mysql,postgres,supabase,docker,git,vscode,idea,postman" />
 </div>
 
 ---
