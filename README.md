@@ -1,28 +1,63 @@
-# Olá, eu sou o Matheus! 👋
+# Olá, eu sou o Matheus Cristopher 👋
 
-Sou um desenvolvedor focado em criar soluções eficientes e escaláveis. Atualmente, curso Ciência da Computação e dedico meus estudos ao ecossistema Java, construindo aplicações robustas desde o banco de dados até a interface.
+🎓 Estudante de Ciência da Computação e desenvolvedor Java apaixonado por tecnologia, arquitetura de software e construção de aplicações escaláveis.
 
-### 💻 Stack Tecnológica:
-- **Backend:** Java (Spring Boot, Spring Data JPA, Spring Security, Jwt, Spring Ai)
-- **Banco de Dados:** PostgreSQL, MySql, Supabase
-- **Infraestrutura:** Docker, Docker Compose
+Atualmente concentro meus estudos e projetos no ecossistema Spring, desenvolvendo soluções completas que abrangem desde a modelagem do banco de dados até a implementação de APIs seguras e infraestrutura conteinerizada.
+
+## 🚀 Sobre Mim
+
+* 💻 Desenvolvedor Backend Java
+* 🌱 Aprimorando conhecimentos em Arquitetura de Software, Microsserviços e Cloud
+* 🔒 Experiência com autenticação e autorização utilizando Spring Security e JWT
+* 🗄️ Modelagem e integração com bancos de dados relacionais
+* 🐳 Utilização de Docker para padronização e implantação de ambientes
+* 📚 Estudando continuamente para evoluir como Desenvolvedor de Software
 
 ---
-## 🛠️ Tech Stack
+
+## 🛠️ Tecnologias
+
+
+**Backend:** Java, Spring Boot, Spring Data JPA, Spring Security, JWT, Spring AI
+
+**Banco de Dados:** PostgreSQL, MySQL, Supabase
+
+**Infraestrutura e Ferramentas:** Docker, Docker Compose, Git, Postman, IntelliJ IDEA, VS Code
+
+---
+
+## 💻 Tech Stack
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,mysql,postgres,supabase,docker,git,vscode,idea,postman" />
 </div>
 
 ---
 
+## 📈 Objetivos
+
+Busco oportunidades para atuar no desenvolvimento de software, contribuindo com soluções de qualidade e expandindo meus conhecimentos em:
+
+* Arquitetura de Software
+* APIs REST
+* Microsserviços
+* Cloud Computing
+* Inteligência Artificial aplicada ao desenvolvimento
+
+---
+
 ## 📊 GitHub Stats
+
 <div align="center">
-    <p>
-    <a href="https://github.com/MatheusCristophi">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusCristophi&theme=dark&border=white&background=0D1117" alt="Saif's GitHub streak"/>
-    </a>
-  </p>
+
 <a href="https://github.com/MatheusCristophi">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusCristophi&theme=dark" alt="Al Siam's GitHub Contribution"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusCristophi&theme=dark&border=white&background=0D1117" />
 </a>
+
+<br>
+
+<a href="https://github.com/MatheusCristophi">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusCristophi&theme=dark" />
+</a>
+
 </div>
