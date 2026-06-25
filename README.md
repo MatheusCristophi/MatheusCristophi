@@ -29,7 +29,7 @@ Atualmente concentro meus estudos e projetos no ecossistema Spring, desenvolvend
 ## 💻 Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,mysql,postgres,supabase,docker,git,vscode,idea,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,ts,mysql,postgres,supabase,docker,git,vscode,idea,postman" />
 </div>
 
 ---
