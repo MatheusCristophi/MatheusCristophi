@@ -51,7 +51,7 @@ Busco oportunidades para atuar no desenvolvimento de software, contribuindo com 
 <div align="center">
 
 <a href="https://github.com/MatheusCristophi">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusCristophi&theme=dark&border=white&background=0D1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusCristophi&locale=pt_BR&timezone=America/Sao_Paulo&theme=dark&border=white&background=0D1117" />
 </a>
 
 <br>
