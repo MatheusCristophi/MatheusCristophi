@@ -93,24 +93,6 @@ Meu objetivo é construir aplicações cada vez mais robustas, seguras e escalá
 
 ---
 
-# 🎯 Objetivo Profissional
-
-Busco oportunidades para iniciar e desenvolver minha carreira profissional na área de **Desenvolvimento de Software**, contribuindo com projetos reais enquanto continuo evoluindo tecnicamente.
-
-Tenho grande interesse em trabalhar com:
-
-* Desenvolvimento Backend
-* Java e Spring Boot
-* Desenvolvimento Full-Stack
-* Vue.js
-* APIs REST
-* Arquitetura de Software
-* Sistemas Distribuídos
-* Microsserviços
-* Cloud Computing
-
----
-
 # 📊 GitHub Stats
 
 <div align="center">
