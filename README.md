@@ -1,72 +1,142 @@
-# Olá, eu sou o Matheus Cristophi 👋
+# 👋 Olá! Eu sou o Matheus Cristophi
 
-🎓 Estudante de Ciência da Computação e desenvolvedor Full-Stack apaixonado por tecnologia, arquitetura de software e construção de aplicações escaláveis.
+🎓 Estudante de **Ciência da Computação** e Desenvolvedor **Full-Stack**, apaixonado por tecnologia, arquitetura de software e construção de aplicações escaláveis.
 
-Tenho base sólida em **Java e Spring Boot** e venho expandindo meus conhecimentos para o ecossistema **React**, desenvolvendo soluções completas que abrangem desde a modelagem do banco de dados até a implementação de APIs seguras, autenticação/autorização e aplicações multi-tenant.
+Atualmente tenho como principal foco o ecossistema **Java + Spring Boot**, desenvolvendo aplicações que envolvem desde a modelagem do banco de dados até a construção de APIs REST, autenticação, autorização, segurança e regras de negócio.
 
----
-
-## 🚀 Sobre Mim
-
-* 💻 Desenvolvedor Full-Stack Júnior (Java & React)
-* 🌱 Aprimorando conhecimentos em Arquitetura de Software, Multi-tenant e Escalabilidade
-* 🔒 Experiência com autenticação e autorização utilizando Spring Security, JWT e RBAC
-* 🗄️ Modelagem e integração com bancos de dados relacionais (PostgreSQL, JPA/Hibernate)
-* 🎨 Construção de interfaces com React
-* 📚 Estudando continuamente para evoluir como Desenvolvedor de Software
+Também venho expandindo meus conhecimentos no desenvolvimento frontend com **Vue.js e TypeScript**, buscando evoluir como um desenvolvedor capaz de construir soluções completas.
 
 ---
 
-## 🛠️ Tecnologias
+## 🚀 Sobre mim
 
-**Backend:** Java, Spring Boot, Spring Data JPA, Spring Security, JWT, REST APIs
-
-**Frontend:** TypeScript, JavaScript, React, HTML5, CSS3
-
-**Banco de Dados:** PostgreSQL, SQL, Supabase
-
-**Infraestrutura e Ferramentas:** Docker, Docker Compose, Git, GitHub, Maven, JUnit, Mockito, Flyway, Postman, Railway
+* 💻 Desenvolvedor **Full-Stack Júnior | Java & Vue.js**
+* ☕ Focado principalmente no desenvolvimento backend com **Java e Spring Boot**
+* 🔐 Experiência com autenticação e autorização utilizando **Spring Security, JWT e RBAC**
+* 🏗️ Estudando e aplicando conceitos de **Arquitetura de Software**
+* 🏢 Interesse em aplicações **Multi-tenant** e sistemas escaláveis
+* 🗄️ Experiência com bancos de dados relacionais e modelagem de dados
+* 🎨 Atualmente aprendendo e desenvolvendo interfaces com **Vue.js e TypeScript**
+* 📚 Sempre estudando e construindo projetos para evoluir como desenvolvedor
 
 ---
 
-## 💻 Tech Stack
+# 🛠️ Tecnologias e Ferramentas
+
+### ⚙️ Backend
+
+Java, Spring Boot, Spring Data JPA, Spring Security, JWT, REST APIs, JPA / Hibernate, Maven
+
+### 🎨 Frontend
+
+TypeScript, JavaScript, Vue.js, HTML5, CSS3
+
+### 🗄️ Banco de Dados
+
+PostgreSQL, MySQL, SQL, Supabase, Flyway
+
+### 🧪 Testes
+
+JUnit, Mockito
+
+### ☁️ Infraestrutura e Ferramentas
+
+Docker, Docker Compose, Git, GitHub, Postman, Railway
+
+---
+
+# 💻 Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,html,css,mysql,postgres,docker,git,postman" />
+
+<img src="https://skillicons.dev/icons?i=java,spring,ts,js,vue,html,css,mysql,postgres,docker,git,maven,insomnia" />
+
 </div>
 
 ---
 
-## 📌 Projetos em Destaque
+# 📌 Projetos em Destaque
 
-💰 **Sistema de Gestão Financeira** — Backend em Java + Spring Boot + PostgreSQL para gerenciamento de empresas, controle de acesso multi-tenant (RBAC) e lançamentos financeiros.
+### 🎓 The Beetles Manager
 
-🎓 **The Beetles Manager** — Sistema de gestão acadêmica full-stack em Java + Spring Boot + PostgreSQL, com deploy na Railway. [🔗 Acessar](https://gerenciamento-academias.up.railway.app)
+Sistema de gestão acadêmica desenvolvido utilizando **Java, Spring Boot e PostgreSQL**.
+
+O projeto foi criado com foco na aplicação prática de conceitos importantes do desenvolvimento backend, incluindo:
+
+* Desenvolvimento de APIs REST
+* Modelagem de banco de dados
+* Integração com PostgreSQL
+* JPA / Hibernate
+* Regras de negócio
+* Arquitetura de aplicações backend
+* Deploy em cloud
+
+🔗 **Aplicação:** https://gerenciamento-academias.up.railway.app
+
+💻 **Código:** [Confira meus repositórios](https://github.com/MatheusCristophi/projeto-integrador-The-Beetles-)
 
 ---
 
-## 📈 Objetivos
+# 📚 Atualmente estudando
 
-Busco oportunidades para atuar no desenvolvimento de software, contribuindo com soluções de qualidade e expandindo meus conhecimentos em:
+Atualmente estou aprofundando meus conhecimentos em:
 
-* Arquitetura de Software
+* 🟢 Vue.js e desenvolvimento frontend
+* 🔐 Segurança de aplicações
+* 🏢 Arquiteturas Multi-tenant
+* 🧪 Testes automatizados
+* 🐳 Docker e containers
+* ☁️ Cloud Computing
+* 🔄 Microsserviços
+
+Meu objetivo é construir aplicações cada vez mais robustas, seguras e escaláveis.
+
+---
+
+# 🎯 Objetivo Profissional
+
+Busco oportunidades para iniciar e desenvolver minha carreira profissional na área de **Desenvolvimento de Software**, contribuindo com projetos reais enquanto continuo evoluindo tecnicamente.
+
+Tenho grande interesse em trabalhar com:
+
+* Desenvolvimento Backend
+* Java e Spring Boot
+* Desenvolvimento Full-Stack
+* Vue.js
 * APIs REST
-* Aplicações Multi-tenant
+* Arquitetura de Software
+* Sistemas Distribuídos
 * Microsserviços
 * Cloud Computing
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MatheusCristophi&theme=dark&hide_border=false&locale=pt_BR&short_numbers=false&date_format=j%2Fn%5B%2FY%5D&card_width=690)](https://git.io/streak-stats)
+<img 
+src="https://github-readme-streak-stats.herokuapp.com?user=MatheusCristophi&theme=dark&hide_border=false&locale=pt_BR&short_numbers=false&date_format=j%2Fn%5B%2FY%5D&card_width=690" 
+alt="GitHub Streak"
+/>
 
-<br>
+<br><br>
 
 <a href="https://github.com/MatheusCristophi">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusCristophi&theme=dark" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusCristophi&theme=dark" 
+    alt="GitHub Profile Summary"
+  />
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Sempre aprendendo, construindo e evoluindo.
+
+⭐ Fique à vontade para explorar meus repositórios!
 
 </div>
