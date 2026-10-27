@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Matheus Cristophi
 
-🎓 Estudante de **Ciência da Computação** e Desenvolvedor **Full-Stack**, com foco principal no desenvolvimento de aplicações utilizando **Java, Spring Boot e React**.
+🎓 Estudante de **Ciência da Computação** e Desenvolvedor **Full-Stack**, com foco principal no desenvolvimento de aplicações utilizando **Java, Spring Boot e Vue**.
 
 Tenho experiência no desenvolvimento de **APIs REST**, autenticação e autorização com **Spring Security e JWT**, modelagem de bancos de dados relacionais e construção de aplicações full-stack.
 
@@ -21,11 +21,11 @@ Tenho experiência no desenvolvimento de **APIs REST**, autenticação e autoriz
 
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![JavaScript](https://skillicons.dev/icons?i=js)
-![Vue.js](https://skillicons.dev/icons?i=react)
+![Vue.js](https://skillicons.dev/icons?i=vuejs)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 
-**React • TypeScript • JavaScript • HTML • CSS**
+**Vue • TypeScript • JavaScript • HTML • CSS**
 
 ### Ferramentas e Infraestrutura
 
@@ -56,7 +56,7 @@ Tenho experiência no desenvolvimento de **APIs REST**, autenticação e autoriz
 
 Atualmente estou aprofundando meus conhecimentos em:
 
-**React • Arquitetura de Software • Testes Automatizados • Docker • Cloud Computing • Microsserviços**
+**Vue • Arquitetura de Software • Testes Automatizados • Docker • Cloud Computing • Microsserviços**
 
 ---
 
